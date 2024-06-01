@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "arange",
+    "argmax",
+    "boxplot",
+    "countplot",
+    "datacleaning",
+    "edgecolor",
+    "figsize",
+    "fontsize",
+    "frameon",
+    "iloc",
+    "keepdims",
+    "matplotlib",
+    "multinomial",
+    "numpy",
+    "probs",
+    "readfile",
+    "scikit",
+    "seaborn",
+    "softmax",
+    "toarray",
+    "Vectorizer",
+    "xlabel",
+    "ylabel"
+  ]
+}
